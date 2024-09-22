@@ -145,7 +145,7 @@ hr {
 }
 .section-title h2 {
   position: relative;
-  margin-top: 10px;
+  margin-top: 100px; /*10px;*/
   margin-bottom: 15px;
   padding-bottom: 15px;
 }
@@ -246,6 +246,11 @@ header .intro-text {
   text-align: center;
 }
 /* Features Section */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
 #features {
   background: #f6f6f6;
 }
