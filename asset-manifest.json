@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qiskit-fall-fest24/static/css/main.ae42ac5f.css",
+    "main.js": "/qiskit-fall-fest24/static/js/main.1a003384.js",
+    "index.html": "/qiskit-fall-fest24/index.html",
+    "main.ae42ac5f.css.map": "/qiskit-fall-fest24/static/css/main.ae42ac5f.css.map",
+    "main.1a003384.js.map": "/qiskit-fall-fest24/static/js/main.1a003384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae42ac5f.css",
+    "static/js/main.1a003384.js"
+  ]
+}
