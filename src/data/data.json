@@ -1,22 +1,17 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Qiskit Fall Fest 2024",
+    "paragraph": "IBM In Partnership with the Quantum Computing Club At Obafemi Awolowo University, Ile-Ife"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "This event is designed to bring together enthusiasts and beginners in quantum computing and tech innovation. Whether you're interested in learning the basics of Qiskit, participating in coding challenges, or hearing from industry experts, this challenge has something for everyone. With a hackathon, workshops, expert talks, and networking opportunities, you’ll dive deep into cutting-edge technology while building valuable connections. Don't miss this opportunity to expand your skills and explore the future of quantum computing! Join us for the 30-day learning challenge (October 5 - November 3, 2024), featuring a dynamic mix of activities around quantum computing and tech innovation.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Workshops and Hackathon: Beginner-friendly workshops on Qiskit and a hackathon, with projects due three days before the event. Winners will be announced on the final day, with certificates and prizes.",
+      "Speakers: Hear from industry experts, including a speaker from IBM, the Quantum Computing Lead, and the GDSC Lead.",
+      "Coding Challenges and Quiz: Test your skills with coding challenges for all levels and a short-timed quiz competition.",
+      "Demos and Networking: Enjoy a demo showcasing quantum computing’s potential, recorded IBM talks, and networking opportunities."
     ]
+    
   },
   "Gallery": [
     {
