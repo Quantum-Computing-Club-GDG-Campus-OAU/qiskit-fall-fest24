@@ -11,10 +11,10 @@ export const Speakers = (props) => {
             dapibus leonec.
           </p>
         </div>
-        <div className="row">
+        <div className={/*"row"*/ "grid"}>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
+                <div key={`${d.name}-${i}`} className={/*"col-md-4"*/ ""}>
                   {" "}
                   <i className={d.icon}></i>
                   <div className="service-desc">
