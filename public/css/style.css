@@ -246,6 +246,11 @@ header .intro-text {
   text-align: center;
 }
 /* Features Section */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
 #features {
   background: #f6f6f6;
 }

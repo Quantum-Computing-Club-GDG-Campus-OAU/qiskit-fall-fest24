@@ -20,8 +20,10 @@ export const Contact = (props) => {
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
+    alert("Message successfully sent!");
+    clearState();
     
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
+    /* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ 
     
     emailjs
       .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
@@ -44,11 +46,10 @@ export const Contact = (props) => {
               <div className="section-title">
                 <h2>Get In Touch</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
+                  You can contact us using the details below.
                 </p>
               </div>
-              <form name="sentMessage" validate onSubmit={handleSubmit}>
+              {/* <form name="sentMessage" validate onSubmit={handleSubmit}>
                 <div className="row">
                   <div className="col-md-6">
                     <div className="form-group">
@@ -95,7 +96,7 @@ export const Contact = (props) => {
                 <button type="submit" className="btn btn-custom btn-lg">
                   Send Message
                 </button>
-              </form>
+              </form> */}
             </div>
           </div>
           <div className="col-md-3 col-md-offset-1 contact-info">
@@ -153,10 +154,11 @@ export const Contact = (props) => {
       <div id="footer">
         <div className="container text-center">
           <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
+            &copy; 2024 Quantum Computing Club, OAU. 
+            {/* Design by{" "}
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
-            </a>
+            </a> */}
           </p>
         </div>
       </div>

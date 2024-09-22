@@ -6,10 +6,15 @@
   "About": {
     "paragraph": "This event is designed to bring together enthusiasts and beginners in quantum computing and tech innovation. Whether you're interested in learning the basics of Qiskit, participating in coding challenges, or hearing from industry experts, this challenge has something for everyone. With a hackathon, workshops, expert talks, and networking opportunities, you’ll dive deep into cutting-edge technology while building valuable connections. Don't miss this opportunity to expand your skills and explore the future of quantum computing! Join us for the 30-day learning challenge (October 5 - November 3, 2024), featuring a dynamic mix of activities around quantum computing and tech innovation.",
     "Why": [
-      "Workshops and Hackathon: Beginner-friendly workshops on Qiskit and a hackathon, with projects due three days before the event. Winners will be announced on the final day, with certificates and prizes.",
-      "Speakers: Hear from industry experts, including a speaker from IBM, the Quantum Computing Lead, and the GDSC Lead.",
-      "Coding Challenges and Quiz: Test your skills with coding challenges for all levels and a short-timed quiz competition.",
-      "Demos and Networking: Enjoy a demo showcasing quantum computing’s potential, recorded IBM talks, and networking opportunities."
+      "Gain insights from industry experts, including a speaker from IBM, the Quantum Computing Lead, and the GDSC Lead.",
+      "Participate in coding challenges for all levels and a short-timed quiz competition.",
+      "Networking and Demo: Enjoy a demo showcasing quantum computing’s potential, recorded IBM talks, and networking opportunities."
+    ],
+    "Why2": [
+      "2 brand new notebooks",
+      "1 Hackathon Package",
+      "2023 Fall Fest Open Notebook",
+      "Additional Materias in the 2024 Fall Fest Package"
     ]
     
   },
@@ -60,36 +65,31 @@
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
-  "Services": [
+  "Speakers": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Johnathan Doe",
+      "text": "CEO, AlphaSoup Inc."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Silas Owo",
+      "text": "Quantum Engineering Manager, Jupiter Systems."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur Katoulopoulos",
+      "text": "Quantum Computing Lead, Halo"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Linda Fairchild",
+      "text": "Co-Founder, AXD"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Robert Alvaro",
+      "text": "Quantum Research Scientist, QuantumTech Innovations"
     }
   ],
   "Testimonials": [
@@ -127,13 +127,13 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Olalekan (Limitless)",
+      "job": "Quantum Computing Lead"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Godwin Adesite",
+      "job": "GDSC Campus Lead"
     },
     {
       "img": "img/team/03.jpg",
@@ -156,24 +156,50 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "30-day Learning Challenge Kickoff",
+      "text": "Join us for the 30-day learning challenge (October 5 - November 3, 2024), featuring a dynamic mix of activities around quantum computing and tech innovation."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-code",
+      "title": "Beginner-level Hackathon",
+      "text": "Beginner-friendly hackathon, with projects due three days before the event. Winners will be announced on the final day, with certificates and prizes."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-lightbulb-o",
+      "title": "Short-timed Quiz Competition",
+      "text": "Test your skills with coding challenges for all levels and a short-timed quiz competition."
+    },
+    {
+      "icon": "fa fa-microphone",
+      "title": "IBM and Club Leads Talks",
+      "text": "Hear from industry experts, including a speaker from IBM, the Quantum Computing Lead, and the GDSC Lead."
+    }
+  ],
+  "Schedules": [
+    {
+      "day": "Day 1",
+      "time": "9:00 AM - 10:00 AM",
+      "title": "Opening Ceremony",
+      "text": "Join us for the opening ceremony, where we'll introduce the event and the speakers."
+    },
+    {
+      "day": "Day 2",
+      "time": "10:00 AM - 11:00 AM",
+      "title": "Workshop",
+      "text": "Learn the basics of Qiskit and quantum computing in this beginner-friendly workshop."
+    },
+    {
+      "day": "Day 3",
+      "time": "11:00 AM - 12:00 PM",
+      "title": "Coding Challenge",
+      "text": "Participate in coding challenges for all levels and a short-timed quiz competition."
+    },
+    {
+      "day": "Day 4",
+      "time": "12:00 PM - 1:00 PM",
+      "title": "Networking and Demo",
+      "text": "Enjoy a demo showcasing quantum computing’s potential, recorded IBM talks, and networking opportunities."
     }
   ]
 }
