@@ -7,6 +7,7 @@ html {
   font-weight: 400;
   width: 100% !important;
   height: 100% !important;
+  /* overflow-x: hidden, */
 }
 h2,
 h3,
@@ -58,8 +59,6 @@ ol {
 ul,
 ol {
   padding: 0;
-  webkit-padding: 0;
-  moz-padding: 0;
 }
 hr {
   height: 2px;
@@ -205,7 +204,7 @@ a:focus,
 }
 /* Header Section */
 .intro {
-  display: table;
+  /* display: table; */
   width: 100%;
   padding: 0;
   background: url(../img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-01.jpg) center center no-repeat;
@@ -217,7 +216,7 @@ a:focus,
   /* opacity: .9; */
 }
 .intro .overlay {
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.5);
 }
 .intro h1 {
   font-family: "Raleway", sans-serif;
@@ -227,6 +226,7 @@ a:focus,
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 10px;
+  width: 100%;
 }
 .intro h1 span {
   font-weight: 800;
@@ -398,6 +398,7 @@ header .intro-text {
 }
 .hover-bg:hover .hover-text > h4 {
   opacity: 1;
+  backface-visibility: hidden;
   -webkit-backface-visibility: hidden;
   -webkit-transform: translateY(0);
   transform: translateY(0);
@@ -608,5 +609,15 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+}
+
+@media (max-width: 768px) {
+  .intro {
+    height: 100vh;
+    background-size: cover;
+  }
+  header .intro-text {
+    padding-top: 200px; /* Adjust padding for mobile */
   }
 }
