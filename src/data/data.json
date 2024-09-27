@@ -20,49 +20,44 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Qiskit Fall Fest 2024",
+      "largeImage": "img/qiskit/Blog-Image_01.png",
+      "smallImage": "img/qiskit/Blog-Image_01.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Qiskit Fall Fest 2024",
+      "largeImage": "img/qiskit/Blog-Image_02.png",
+      "smallImage": "img/qiskit/Blog-Image_02.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Qiskit Fall Fest 2024",
+      "largeImage": "img/qiskit/Crop_02.png",
+      "smallImage": "img/qiskit/Crop_02.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Qiskit Fall Fest 2024",
+      "largeImage": "img/qiskit/Crop_04.png",
+      "smallImage": "img/qiskit/Crop_04.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Qiskit Fall Fest 2024",
+      "largeImage": "img/qiskit/Fall-Fest.jpg",
+      "smallImage": "img/qiskit/Fall-Fest.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Qiskit Fall Fest 2024",
+      "largeImage": "img/qiskit/Web_Community-Page_Image.png",
+      "smallImage": "img/qiskit/Web_Community-Page_Image.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Qiskit Fall Fest 2024",
+      "largeImage": "img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-03.jpg",
+      "smallImage": "img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-03.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Qiskit Fall Fest 2024",
+      "largeImage": "img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-04.jpg",
+      "smallImage": "img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-04.jpg"
     }
   ],
   "Speakers": [
