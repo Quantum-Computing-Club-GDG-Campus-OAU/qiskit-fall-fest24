@@ -1,12 +1,12 @@
 {
   "Header": {
     "title": "Qiskit Fall Fest 2024",
-    "paragraph": "IBM In Partnership with the Quantum Computing Club At Obafemi Awolowo University, Ile-Ife"
+    "paragraph": "IBM In Partnership with the GDG OAU Quantum Computing Club At Obafemi Awolowo University, Ile-Ife"
   },
   "About": {
-    "paragraph": "This event is designed to bring together enthusiasts and beginners in quantum computing and tech innovation. Whether you're interested in learning the basics of Qiskit, participating in coding challenges, or hearing from industry experts, this challenge has something for everyone. With a hackathon, workshops, expert talks, and networking opportunities, you’ll dive deep into cutting-edge technology while building valuable connections. Don't miss this opportunity to expand your skills and explore the future of quantum computing! Join us for the 30-day learning challenge (October 5 - November 3, 2024), featuring a dynamic mix of activities around quantum computing and tech innovation.",
+    "paragraph": "This event is designed to bring together enthusiasts and beginners in quantum computing and tech innovation. Whether you're interested in learning the basics of Qiskit, participating in coding challenges, or hearing from industry experts, this challenge has something for everyone. With a hackathon, workshops, expert talks, and networking opportunities, you’ll dive deep into cutting-edge technology while building valuable connections. Don't miss this opportunity to expand your skills and explore the future of quantum computing! Join us for the 24-day learning challenge (October 18 - November 10, 2024), featuring a dynamic mix of activities around quantum computing and tech innovation.",
     "Why": [
-      "Gain insights from industry experts, including a speaker from IBM, the Quantum Computing Lead, and the GDSC Lead.",
+      "Gain insights from industry experts, including a speakers from IBM.",
       "Participate in coding challenges for all levels and a short-timed quiz competition.",
       "Networking and Demo: Enjoy a demo showcasing quantum computing’s potential, recorded IBM talks, and networking opportunities."
     ],
@@ -142,23 +142,22 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria ",
+    "phone": "+234 123 456 1234",
     "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "twitter": "https://twitter.com/GDGOAU",
+    "linkedin": "https://linkedin.com/in/google-developer-groups-obafemi-awolowo-university?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
   "Features": [
     {
       "icon": "fa fa-bullhorn",
-      "title": "30-day Learning Challenge Kickoff",
-      "text": "Join us for the 30-day learning challenge (October 5 - November 3, 2024), featuring a dynamic mix of activities around quantum computing and tech innovation."
+      "title": "24-day Learning Challenge Kickoff",
+      "text": "Join us for the 24-day learning challenge (October 18 - November 10, 2024), featuring a dynamic mix of activities around quantum computing and tech innovation."
     },
     {
       "icon": "fa fa-code",
       "title": "Beginner-level Hackathon",
-      "text": "Beginner-friendly hackathon, with projects due three days before the event. Winners will be announced on the final day, with certificates and prizes."
+      "text": "Beginner-friendly hackathon beginning on November 14 to November 19, with projects due three days before the event. Winners will be announced on the final day, with certificates and prizes."
     },
     {
       "icon": "fa fa-lightbulb-o",
@@ -168,7 +167,7 @@
     {
       "icon": "fa fa-microphone",
       "title": "IBM and Club Leads Talks",
-      "text": "Hear from industry experts, including a speaker from IBM, the Quantum Computing Lead, and the GDSC Lead."
+      "text": "Hear from industry experts, including speakers from IBM, the Quantum Computing Lead, and the GDG on Campus Lead."
     }
   ],
   "Schedules": [

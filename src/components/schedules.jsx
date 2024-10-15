@@ -6,8 +6,11 @@ export const Schedules = (props) => {
       <div className="container">
         <div className={/*"col-md-10 col-md-offset-1*/  "section-title"}>
           <h2>Schedules</h2>
+          <p>Full schedules of the event will be published soon!</p>
         </div>
-        <div className={"grid"}>
+        <div className={"grid "}
+          style={{ display: "none" }}
+        >
           {props.data
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className={/*"col-xs-6 col-md-3"*/ "" }>
