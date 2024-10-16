@@ -219,7 +219,7 @@ a:focus,
   width: 100%;
   padding: 0;
   background: url(../img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-01.jpg) center center no-repeat;
-  background-color: #e5e5e5 border-box;
+  background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;

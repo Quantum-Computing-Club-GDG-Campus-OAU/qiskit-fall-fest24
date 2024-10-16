@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/qiskit-fall-fest24/static/css/main.ae42ac5f.css",
-    "main.js": "/qiskit-fall-fest24/static/js/main.dd7038ec.js",
+    "main.js": "/qiskit-fall-fest24/static/js/main.3ea51aec.js",
     "index.html": "/qiskit-fall-fest24/index.html",
     "main.ae42ac5f.css.map": "/qiskit-fall-fest24/static/css/main.ae42ac5f.css.map",
-    "main.dd7038ec.js.map": "/qiskit-fall-fest24/static/js/main.dd7038ec.js.map"
+    "main.3ea51aec.js.map": "/qiskit-fall-fest24/static/js/main.3ea51aec.js.map"
   },
   "entrypoints": [
     "static/css/main.ae42ac5f.css",
-    "static/js/main.dd7038ec.js"
+    "static/js/main.3ea51aec.js"
   ]
 }
