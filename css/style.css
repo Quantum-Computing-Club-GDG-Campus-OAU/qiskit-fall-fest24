@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+},
 body,
 html {
   font-family: "Open Sans", sans-serif;
@@ -203,22 +206,33 @@ a:focus,
   outline-offset: none;
 }
 /* Header Section */
+.test {
+  width: 100%;
+  padding: 0;
+  background: url(../img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-01.jpg)  no-repeat;
+  background-color: #e5e5e5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  position: fixed;
+}
 .intro {
   /* display: table; */
   width: 100%;
   padding: 0;
   background: url(../img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-01.jpg) center center no-repeat;
-  background-color: #e5e5e5;
+  background-color: #e5e5e5 border-box;
   -webkit-background-size: cover;
   -moz-background-size: cover;
-  background-size: cover;
+  background-size: contain;
   -o-background-size: cover;
   /* opacity: .9; */
 }
 .intro .overlay {
   background: rgba(0, 0, 0, 0.5);
 }
-.intro h1 {
+.test h1 {
   font-family: "Raleway", sans-serif;
   color: #fff;
   font-size: 82px;
