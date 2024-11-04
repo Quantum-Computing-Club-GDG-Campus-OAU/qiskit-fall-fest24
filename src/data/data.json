@@ -11,10 +11,7 @@
       "Networking and Demo: Enjoy a demo showcasing quantum computing’s potential, recorded IBM talks, and networking opportunities."
     ],
     "Why2": [
-      "2 brand new notebooks",
-      "1 Hackathon Package",
-      "2023 Fall Fest Open Notebook",
-      "Additional Materias in the 2024 Fall Fest Package"
+      "Amazing swags and gifts"
     ]
     
   },
@@ -63,28 +60,29 @@
   "Speakers": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Johnathan Doe",
-      "text": "CEO, AlphaSoup Inc."
+      "name": "To be revealed soon",
+      "text": "To be revealed soon",
+      "avatar": "img/team/limitless2.jpg"
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Silas Owo",
-      "text": "Quantum Engineering Manager, Jupiter Systems."
+      "icon": "fa fa-twitter",
+      "name": "To be revealed soon",
+      "text": "To be revealed soon"
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur Katoulopoulos",
-      "text": "Quantum Computing Lead, Halo"
+      "name": "To be revealed soon",
+      "text": "To be revealed soon"
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Linda Fairchild",
-      "text": "Co-Founder, AXD"
+      "icon": "fa fa-google",
+      "name": "To be revealed soon",
+      "text": "To be revealed soon"
     },
     {
       "icon": "fa fa-language",
-      "name": "Robert Alvaro",
-      "text": "Quantum Research Scientist, QuantumTech Innovations"
+      "name": "To be revealed soon",
+      "text": "To be revealed soon"
     }
   ],
   "Testimonials": [
@@ -121,24 +119,29 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "Olalekan (Limitless)",
+      "img": "img/team/limitless2.jpg",
+      "name": "Adesina Lekan (Limitless)",
       "job": "Quantum Computing Lead"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/godwin2.jpg",
       "name": "Godwin Adesite",
-      "job": "GDSC Campus Lead"
+      "job": "GDG OAU Campus Lead"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/human2.jpg",
+      "name": "Okoli Ogechukwu Abimbola",
+      "job": "Publicity and Marketing Team Lead"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/anathema2.jpg",
+      "name": "Frederick Gbolade",
+      "job": "Quantum Computing Club Volunteer"
+    },
+    {
+      "img": "img/team/mighty2.jpg",
+      "name": "Mighty Odewumi",
+      "job": "Web Development Lead"
     }
   ],
   "Contact": {
@@ -172,28 +175,29 @@
   ],
   "Schedules": [
     {
-      "day": "Day 1",
-      "time": "9:00 AM - 10:00 AM",
-      "title": "Opening Ceremony",
-      "text": "Join us for the opening ceremony, where we'll introduce the event and the speakers."
+      "day": "October 18 - November 10",
+      "title": "Learning Challenge"
     },
     {
-      "day": "Day 2",
-      "time": "10:00 AM - 11:00 AM",
-      "title": "Workshop",
-      "text": "Learn the basics of Qiskit and quantum computing in this beginner-friendly workshop."
+      "day": "November 8 - November 11",
+      "title": "Project Proposal"
     },
     {
-      "day": "Day 3",
-      "time": "11:00 AM - 12:00 PM",
-      "title": "Coding Challenge",
-      "text": "Participate in coding challenges for all levels and a short-timed quiz competition."
+      "day": "November 12 - November 13",
+      "title": "Announcement of Accepted Proposals"
     },
     {
-      "day": "Day 4",
-      "time": "12:00 PM - 1:00 PM",
-      "title": "Networking and Demo",
-      "text": "Enjoy a demo showcasing quantum computing’s potential, recorded IBM talks, and networking opportunities."
+      "day": "November 14 - November 19",
+      "title": "Hackathon Period"
+    },
+    {
+      "day": "November 21",
+      "title": "Hands-On Session (6 - 8PM)",
+      "title2": "Hackathon Presentation (8 - 8:30PM)"
+    },
+    {
+      "day": "November 23",
+      "title": "Final Event (12 - 3PM)"
     }
   ]
 }
