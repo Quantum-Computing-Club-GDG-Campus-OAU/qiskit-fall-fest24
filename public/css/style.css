@@ -203,6 +203,17 @@ a:focus,
   outline-offset: none;
 }
 /* Header Section */
+.test {
+  width: 100%;
+  padding: 0;
+  background: url(../img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-01.jpg)  no-repeat;
+  background-color: #e5e5e5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  position: fixed;
+}
 .intro {
   /* display: table; */
   width: 100%;
@@ -356,6 +367,13 @@ header .intro-text {
 #services .service-desc {
   margin-bottom: 40px;
 }
+.speaker {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  padding: 40px 0;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
@@ -454,7 +472,7 @@ header .intro-text {
   margin: 5px 0;
 }
 #team .team-img {
-  width: 240px;
+  /* width: 240px; */
 }
 #team .thumbnail {
   background: transparent;
@@ -464,6 +482,16 @@ header .intro-text {
   padding: 10px 0 0;
   color: #888;
 }
+.team-img-container {
+  width: 100%; 
+  img {
+    /* width: 300px;
+    height: 300px; */
+    /* max-width: 100%; */
+    width: 100%;
+  }
+}
+
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;

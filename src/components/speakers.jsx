@@ -7,8 +7,7 @@ export const Speakers = (props) => {
         <div className="section-title">
           <h2>Speakers</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Inspiring talks from renowned experts.
           </p>
         </div>
         <div className={/*"row"*/ "grid"}>
@@ -17,9 +16,12 @@ export const Speakers = (props) => {
                 <div key={`${d.name}-${i}`} className={/*"col-md-4"*/ ""}>
                   {" "}
                   <i className={d.icon}></i>
+                  {/* <div  >
+                    <img src={d.avatar} alt="" className="speaker"/>
+                  </div> */}
                   <div className="service-desc">
-                    <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                    <h3>Name: {d.name}</h3>
+                    <p>Role/Company: {d.text}</p>
                   </div>
                 </div>
               ))

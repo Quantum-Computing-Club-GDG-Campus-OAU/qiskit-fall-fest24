@@ -6,10 +6,9 @@ export const Schedules = (props) => {
       <div className="container">
         <div className={/*"col-md-10 col-md-offset-1*/  "section-title"}>
           <h2>Schedules</h2>
-          <p>Full schedules of the event will be published soon!</p>
         </div>
         <div className={"grid "}
-          style={{ display: "none" }}
+          
         >
           {props.data
             ? props.data.map((d, i) => (
@@ -17,9 +16,10 @@ export const Schedules = (props) => {
                   {" "}
                   {/* <i className={d.icon}></i> */}
                   <h3>{d.day}</h3>
-                  <p>{d.time}</p>
+                  <p>{d?.time}</p>
                   <h5>{d.title}</h5>
-                  <p>{d.text}</p>
+                  <h5>{d.title2}</h5>
+                  <p>{d?.text}</p>
                 </div>
               ))
             : "Loading..."}

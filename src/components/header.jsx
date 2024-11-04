@@ -19,11 +19,14 @@ export const Header = (props) => {
                 >
                   Register
                 </a>{" "}
-              </div>
+              </div> 
             </div>
           </div>
         </div>
-      </div>
+      </div> 
+      {/* <div className="test">
+        <h1 style={{ color: "black" }}>Hello World</h1>
+      </div> */}
     </header>
   );
 };
