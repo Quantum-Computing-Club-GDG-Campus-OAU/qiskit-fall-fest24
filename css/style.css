@@ -202,6 +202,19 @@ a:focus,
   outline: none;
   outline-offset: none;
 }
+
+#hero {
+  background: url(../img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-01.jpg) repeat-x;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
 /* Header Section */
 .test {
   width: 100%;
