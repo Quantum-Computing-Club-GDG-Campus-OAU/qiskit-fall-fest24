@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
-import { Header } from "./components/header";
+import { Hero } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Speakers } from "./components/speakers";
@@ -26,8 +26,8 @@ const App = () => {
 
   return (
     <div>
-      <Navigation />
-      <Header data={landingPageData.Header} />
+      {/* <Navigation /> */}
+      <Hero data={landingPageData.Header} />
       <About data={landingPageData.About} />
       <Features data={landingPageData.Features} />
       <Speakers data={landingPageData.Speakers} />
@@ -41,3 +41,6 @@ const App = () => {
 };
 
 export default App;
+
+
+// "homepage": "https://quantum-computing-club-gdg-campus-oau.github.io/qiskit-fall-fest24",

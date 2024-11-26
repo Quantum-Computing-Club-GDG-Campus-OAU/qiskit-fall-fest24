@@ -6,83 +6,62 @@
   "About": {
     "paragraph": "This event is designed to bring together enthusiasts and beginners in quantum computing and tech innovation. Whether you're interested in learning the basics of Qiskit, participating in coding challenges, or hearing from industry experts, this challenge has something for everyone. With a hackathon, workshops, expert talks, and networking opportunities, you’ll dive deep into cutting-edge technology while building valuable connections. Don't miss this opportunity to expand your skills and explore the future of quantum computing! Join us for the 24-day learning challenge (October 18 - November 10, 2024), featuring a dynamic mix of activities around quantum computing and tech innovation.",
     "Why": [
-      "Gain insights from industry experts, including a speakers from IBM.",
+      "Gain insights from industry experts, including a speakers from Yale University.",
       "Participate in coding challenges for all levels and a short-timed quiz competition.",
-      "Networking and Demo: Enjoy a demo showcasing quantum computing’s potential, recorded IBM talks, and networking opportunities."
+      "Experience rich networking opportunities, alongside with other participants."
     ],
     "Why2": [
-      "Amazing swags and gifts"
+      "Win amazing swags and gifts, e.g. IBM vests, jotters, etc."
     ]
     
   },
   "Gallery": [
     {
       "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/qiskit/Blog-Image_01.png",
-      "smallImage": "img/qiskit/Blog-Image_01.png"
+      "largeImage": "img/portfolio/img1.jpg",
+      "smallImage": "img/portfolio/img1.jpg"
     },
     {
       "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/qiskit/Blog-Image_02.png",
-      "smallImage": "img/qiskit/Blog-Image_02.png"
+      "largeImage": "img/portfolio/img2.jpg",
+      "smallImage": "img/portfolio/img2.jpg"
     },
     {
       "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/qiskit/Crop_02.png",
-      "smallImage": "img/qiskit/Crop_02.png"
+      "largeImage": "img/portfolio/img3.jpg",
+      "smallImage": "img/portfolio/img3.jpg"
     },
     {
       "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/qiskit/Crop_04.png",
-      "smallImage": "img/qiskit/Crop_04.png"
+      "largeImage": "img/portfolio/img4.jpg",
+      "smallImage": "img/portfolio/img4.jpg"
     },
     {
       "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/qiskit/Fall-Fest.jpg",
-      "smallImage": "img/qiskit/Fall-Fest.jpg"
+      "largeImage": "img/portfolio/img5.jpg",
+      "smallImage": "img/portfolio/img5.jpg"
     },
     {
       "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/qiskit/Web_Community-Page_Image.png",
-      "smallImage": "img/qiskit/Web_Community-Page_Image.png"
-    },
-    {
-      "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-03.jpg",
-      "smallImage": "img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-03.jpg"
-    },
-    {
-      "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-04.jpg",
-      "smallImage": "img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-04.jpg"
+      "largeImage": "img/portfolio/img6.jpg",
+      "smallImage": "img/portfolio/img6.jpg"
     }
   ],
   "Speakers": [
     {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Pranet Sharma",
+      "text": "Quantum  Engineering Researcher at Yale University"
+    },
+    {
       "icon": "fa fa-wordpress",
-      "name": "To be revealed soon",
-      "text": "To be revealed soon",
-      "avatar": "img/team/limitless2.jpg"
+      "name": "Adesina Lekan (Limitless)",
+      "text": "Quantum Computing Lead"
     },
     {
       "icon": "fa fa-twitter",
-      "name": "To be revealed soon",
-      "text": "To be revealed soon"
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "To be revealed soon",
-      "text": "To be revealed soon"
-    },
-    {
-      "icon": "fa fa-google",
-      "name": "To be revealed soon",
-      "text": "To be revealed soon"
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "To be revealed soon",
-      "text": "To be revealed soon"
+      "name": "Godwin Adesite",
+      "text": "GDGOAU Campus Lead"
     }
   ],
   "Testimonials": [
@@ -134,6 +113,11 @@
       "job": "Publicity and Marketing Team Lead"
     },
     {
+      "img": "img/team/anuoluwapo1.jpg",
+      "name": "Anuoluwapo Kuye",
+      "job": "Graphic Design Lead"
+    },
+    {
       "img": "img/team/anathema2.jpg",
       "name": "Frederick Gbolade",
       "job": "Quantum Computing Club Volunteer"
@@ -147,7 +131,7 @@
   "Contact": {
     "address": "Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria ",
     "phone": "+234 123 456 1234",
-    "email": "info@company.com",
+    "email": "oaudsc@gmail.com",
     "twitter": "https://twitter.com/GDGOAU",
     "linkedin": "https://linkedin.com/in/google-developer-groups-obafemi-awolowo-university?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
   },
@@ -168,9 +152,14 @@
       "text": "Test your skills with coding challenges for all levels and a short-timed quiz competition."
     },
     {
+      "icon": "fa fa-code",
+      "title": "Hands-on Session",
+      "text": "Gain a practical experience on quantum computing using IBM Qiskit. You have access to auto-graded challenge notebooks and open-ended beginner level notebooks."
+    },
+    {
       "icon": "fa fa-microphone",
       "title": "IBM and Club Leads Talks",
-      "text": "Hear from industry experts, including speakers from IBM, the Quantum Computing Lead, and the GDG on Campus Lead."
+      "text": "Hear from industry experts, including speakers from Yale University, the Quantum Computing Lead, and the GDG on Campus Lead."
     }
   ],
   "Schedules": [
@@ -191,13 +180,17 @@
       "title": "Hackathon Period"
     },
     {
+      "day": "November 20",
+      "title": "Online Examination for Learning Challenge Participants"
+    },
+    {
       "day": "November 21",
       "title": "Hands-On Session (6 - 8PM)",
       "title2": "Hackathon Presentation (8 - 8:30PM)"
     },
     {
       "day": "November 23",
-      "title": "Final Event (12 - 3PM)"
+      "title": "Final Event (2 - 5PM)"
     }
   ]
 }
