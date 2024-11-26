@@ -20,8 +20,8 @@ export const Speakers = (props) => {
                     <img src={d.avatar} alt="" className="speaker"/>
                   </div> */}
                   <div className="service-desc">
-                    <h3>Name: {d.name}</h3>
-                    <p>Role/Company: {d.text}</p>
+                    <h3>{d.name}</h3>
+                    <p>{d.text}</p>
                   </div>
                 </div>
               ))
