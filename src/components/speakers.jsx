@@ -4,7 +4,7 @@ export const Speakers = (props) => {
   return (
     <div id="services" className="text-center">
       <div className="container">
-        <div className="">
+        <div style={{ marginBottom: 32}}>
           <h2>Speakers</h2>
           <p>
             Inspiring talks from renowned experts.
