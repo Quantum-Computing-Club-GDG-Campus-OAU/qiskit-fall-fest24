@@ -54,17 +54,17 @@
   ],
   "Speakers": [
     {
-      "icon": "fa fa-cart-arrow-down",
+      "avatar": "img/team/speaker.jpg",
       "name": "Pranet Sharma",
       "text": "Quantum  Engineering Researcher at Yale University"
     },
     {
-      "icon": "fa fa-wordpress",
+      "avatar": "img/team/limitless2.jpg",
       "name": "Adesina Lekan (Limitless)",
       "text": "Quantum Computing Lead"
     },
     {
-      "icon": "fa fa-twitter",
+      "avatar": "img/team/godwin2.jpg",
       "name": "Godwin Adesite",
       "text": "GDGOAU Campus Lead"
     }
