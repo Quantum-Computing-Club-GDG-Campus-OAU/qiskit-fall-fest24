@@ -23,13 +23,18 @@
     },
     {
       "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/portfolio/img2.jpg",
-      "smallImage": "img/portfolio/img2.jpg"
+      "largeImage": "img/portfolio/img2-1.jpg",
+      "smallImage": "img/portfolio/img2-1.jpg"
     },
     {
       "title": "Qiskit Fall Fest 2024",
-      "largeImage": "img/portfolio/img3.jpg",
-      "smallImage": "img/portfolio/img3.jpg"
+      "largeImage": "img/portfolio/img3-1.jpg",
+      "smallImage": "img/portfolio/img3-1.jpg"
+    },
+    {
+      "title": "Qiskit Fall Fest 2024",
+      "smallImage": "img/portfolio/img3-2.jpg",
+      "largeImage": "img/portfolio/img3-2.jpg"
     },
     {
       "title": "Qiskit Fall Fest 2024",
@@ -49,17 +54,17 @@
   ],
   "Speakers": [
     {
-      "icon": "fa fa-cart-arrow-down",
+      "avatar": "img/team/speaker.jpg",
       "name": "Pranet Sharma",
       "text": "Quantum  Engineering Researcher at Yale University"
     },
     {
-      "icon": "fa fa-wordpress",
+      "avatar": "img/team/limitless2.jpg",
       "name": "Adesina Lekan (Limitless)",
       "text": "Quantum Computing Lead"
     },
     {
-      "icon": "fa fa-twitter",
+      "avatar": "img/team/godwin2.jpg",
       "name": "Godwin Adesite",
       "text": "GDGOAU Campus Lead"
     }

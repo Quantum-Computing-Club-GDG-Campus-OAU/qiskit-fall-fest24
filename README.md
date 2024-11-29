@@ -1,6 +1,6 @@
 # Qiskit Fall Fest 2024
 
-Website for the Qiskit event at Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria.
+Website for the Qiskit event at Obafemi Awolowo University, Ile-Ife, Osun State, Nigeria is live at https://quantum-computing-club-gdg-campus-oau.github.io/qiskit-fall-fest24
  
 
 # Welcome
@@ -22,7 +22,7 @@ The **Qiskit Fall Fest 2024** is a series of workshops, hackathons, and meetups,
 
 ## How to Get Involved
 
-1. **Register for the Event**: [Event Registration Link](#)
+1. **Register for the Event**: [Event Registration Link](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-ibm-qiskit-fall-fest-gdg-oau-quantum-computing-chapter)
 2. **Join the Workshops**: Check out the schedule for workshops ranging from beginner-level introductions to advanced quantum programming tutorials.
 3. **Participate in the Hackathon**: Form a team or join an existing one to work on exciting quantum projects during the hackathon.
 4. **Connect with the Community**: Stay updated by joining our [WhatsApp](#) and following our social media channels.

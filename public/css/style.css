@@ -202,6 +202,19 @@ a:focus,
   outline: none;
   outline-offset: none;
 }
+
+#hero {
+  background: url(../img/qiskit/Wallpapers/Qiskit_Fall-Fest_Wallpaper-01.jpg) repeat-x;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
 /* Header Section */
 .test {
   width: 100%;
@@ -471,9 +484,6 @@ header .intro-text {
 #team h4 {
   margin: 5px 0;
 }
-#team .team-img {
-  /* width: 240px; */
-}
 #team .thumbnail {
   background: transparent;
   border: 0;
@@ -499,7 +509,7 @@ header .intro-text {
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 #contact .section-title p {
   font-size: 16px;
@@ -521,9 +531,8 @@ header .intro-text {
 }
 #contact h3 {
   color: #fff;
-  margin-top: 80px;
-  margin-bottom: 25px;
-  padding-bottom: 20px;
+  margin-top: 32px;
+  margin-bottom: 16px;
   font-weight: 400;
 }
 #contact form {
@@ -583,6 +592,7 @@ label {
 .form-control:-ms-input-placeholder {
   color: #777;
 }
+
 #contact .contact-item {
   margin: 20px 0;
 }
